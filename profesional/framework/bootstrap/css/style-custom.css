@@ -1,0 +1,80 @@
+/* BOOSTRAP STYLES */
+.panel-primary{	
+	border-color:#367fa9 !important;
+}
+.panel-primary>.panel-heading{	
+	border-color:#367fa9 !important;
+	background-color:#367fa9 !important;
+}
+
+.btn-default{
+	border-color:#367fa9 !important;
+	background-color:#367fa9 !important;
+}
+.btn-info{
+	border-color:#CCC !important;
+	background-color:#FFF !important;
+    color:#000 !important;
+}
+.btn-primary{
+	border-color:#367fa9 !important; 
+	background-color:#367fa9 !important;
+}
+.btn-danger{
+	border-color:#dd4b39 !important;
+	background-color:#dd4b39 !important;
+}
+.btn-success{
+	border-color:#00a65a !important;
+	background-color:#00a65a !important;
+}
+.btn-warning{
+	border-color:#FBBE01 !important;
+	background-color:#FBBE01 !important;
+	color:#000 !important;
+}
+
+.success{
+	background-color:#00a65a !important;
+}
+.danger{
+	background-color:#dd4b39 !important;
+}
+.warning{
+	background-color:#FBBE01 !important;
+}	
+.info{
+	background-color:#367fa9 !important;
+}
+
+a{
+	color:#367fa9;
+}
+
+.active{
+	background-color:#F2F2F2 !important;
+}
+
+.well{
+	background-color: #222d32 !important;
+	border: 2px solid #FBBE01 !important;
+	color: #FFF !important;
+}
+.navbar-right>li>a:hover{
+	background-color:#222d32 !important;
+	color:#FFF !important;
+}
+.navbar-right>li>a:focus{
+	background-color:#222d32 !important;
+	color:#FFF !important;
+}
+.dropdown-menu>li>a:hover{
+    background-color:#DDD !important;
+    color: #000 !important;
+}
+.navbar-toggle:hover{
+	background-color:#FBBE01 !important; 
+}
+.navbar-toggle:focus{
+	background-color:#FBBE01 !important; 
+}
